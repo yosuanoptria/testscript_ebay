@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checklist_4inch</name>
+   <tag></tag>
+   <elementGuidId>1b1a4092-2f8e-47e2-90a9-28030958cd8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//*[contains(@id,'c3-subPanel-Screen%20Size_4.0')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//*[contains(@id,'c3-subPanel-Screen%20Size_4.0')])[2]</value>
+   </webElementProperties>
+</WebElementEntity>

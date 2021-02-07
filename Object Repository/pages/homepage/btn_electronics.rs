@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_electronics</name>
+   <tag></tag>
+   <elementGuidId>dd7dead5-f190-4512-84c5-653af9abce13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;gh-sbc&quot;]/tbody/tr/td[1]/h3[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;gh-sbc&quot;]/tbody/tr/td[1]/h3[2]/a</value>
+   </webElementProperties>
+</WebElementEntity>

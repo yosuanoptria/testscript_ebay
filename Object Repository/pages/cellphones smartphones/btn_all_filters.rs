@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_all_filters</name>
+   <tag></tag>
+   <elementGuidId>8f1162fc-44de-443a-b235-eaa46f3f418a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;s0-27_1-9-0-1[0]-0-1&quot;]/section/ul[1]/li[8]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;s0-27_1-9-0-1[0]-0-1&quot;]/section/ul[1]/li[8]/button</value>
+   </webElementProperties>
+</WebElementEntity>

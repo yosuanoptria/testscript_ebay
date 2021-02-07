@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>access a Product via Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6da51dd-81db-470b-801f-c0b65c5d8f8d</testCaseGuid>
+   <variable>
+      <defaultValue>'Macbook'</defaultValue>
+      <description></description>
+      <id>47573417-40a3-4e2c-b215-a7039d8af7ed</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+</TestCaseEntity>

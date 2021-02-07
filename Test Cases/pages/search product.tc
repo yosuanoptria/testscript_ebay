@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>search product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e890551f-6767-4293-9bcb-9f564379c1f3</testCaseGuid>
+   <variable>
+      <defaultValue>'Macbook'</defaultValue>
+      <description></description>
+      <id>bb8e6b4b-fefc-4745-bb1e-484bb078f167</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+</TestCaseEntity>

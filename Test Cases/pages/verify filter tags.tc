@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify filter tags</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af4e2069-a1db-493f-8b20-ba8108af174a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7958b61-6a4c-41a5-a122-e9f54a43867e</id>
+      <masked>false</masked>
+      <name>verify_price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a2f9f20-c7fc-4faa-bcab-840d33c88389</id>
+      <masked>false</masked>
+      <name>verify_location</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>65f352d7-ba07-4ad0-bcc8-2eebae92cad0</id>
+      <masked>false</masked>
+      <name>verify_total_filter</name>
+   </variable>
+</TestCaseEntity>

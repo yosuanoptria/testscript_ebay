@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select filters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2e7539f-e2bf-4fb5-b329-41e94b624bbb</testCaseGuid>
+   <variable>
+      <defaultValue>'3000000'</defaultValue>
+      <description></description>
+      <id>044010c1-c76a-4288-b6b8-d21b7328bff0</id>
+      <masked>false</masked>
+      <name>priceFrom</name>
+   </variable>
+   <variable>
+      <defaultValue>'10000000'</defaultValue>
+      <description></description>
+      <id>f8c538fa-90cc-4f3a-8624-47cc6c948833</id>
+      <masked>false</masked>
+      <name>priceTo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify search product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bd889d0-fc65-4e6a-869b-8380db00e3f5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bec6b47e-fe38-4b39-a66f-f5b70a13f68c</id>
+      <masked>false</masked>
+      <name>verify_search_product_name</name>
+   </variable>
+</TestCaseEntity>

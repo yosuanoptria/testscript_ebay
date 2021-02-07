@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>access a Product via category after applying multiple filters</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33aa67e8-d113-4939-95ba-3f56078ddd86</testCaseGuid>
+   <variable>
+      <defaultValue>'IDR3,000,000 - IDR10,000,000'</defaultValue>
+      <description></description>
+      <id>c2038891-c98a-4772-a8a7-d807adbf9b39</id>
+      <masked>false</masked>
+      <name>verify_price</name>
+   </variable>
+   <variable>
+      <defaultValue>'US Only'</defaultValue>
+      <description></description>
+      <id>39a1f563-0a7f-4a94-b140-cab24d94cfb3</id>
+      <masked>false</masked>
+      <name>verify_location</name>
+   </variable>
+   <variable>
+      <defaultValue>'(2) Filter(s) selected'</defaultValue>
+      <description></description>
+      <id>37748ed1-44b5-44e8-8c6a-1920deb21ea7</id>
+      <masked>false</masked>
+      <name>verify_total_filter</name>
+   </variable>
+</TestCaseEntity>

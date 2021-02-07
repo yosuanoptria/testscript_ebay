@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verify_product_name</name>
+   <tag></tag>
+   <elementGuidId>1afd2905-f61b-4911-ab24-bbae6948f0c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;mainContent&quot;]/div[1]/div/div[2]/div[1]/div[1]/h1/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;mainContent&quot;]/div[1]/div/div[2]/div[1]/div[1]/h1/span[2]</value>
+   </webElementProperties>
+</WebElementEntity>
